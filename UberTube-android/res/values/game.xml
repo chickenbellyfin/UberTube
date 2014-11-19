@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="leaderboard_highscore">CgkIuv6DsNQbEAIQAg</string>
+    <string name="leaderboard_longestgame">CgkIuv6DsNQbEAIQAw</string>
+    <string name="leaderboard_biggestcombo">CgkIuv6DsNQbEAIQBA</string>
+    
+    <string name="achievement_10_games">CgkIuv6DsNQbEAIQBQ</string>
+    <string name="achievement_50_games">CgkIuv6DsNQbEAIQBg</string>
+    <string name="achievement_250_games">CgkIuv6DsNQbEAIQBw</string>
+    <string name="achievement_42_points">CgkIuv6DsNQbEAIQCA</string>
+    <string name="achievement_1337_points">CgkIuv6DsNQbEAIQCQ</string>
+    <string name="achievement_5280_points">CgkIuv6DsNQbEAIQCg</string>
+    <string name="achievement_cube">CgkIuv6DsNQbEAIQCw</string>
+</resources>
